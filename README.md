@@ -26,6 +26,14 @@ The provided train and test datasets contain various demographic, socio-economic
 5. Individuals outside the labor force display the highest income threshold below the designated benchmark.
 6. The age range of 40 to 50 shows the highest income thresholds exceeding the specified limit.
 
+## Evaluation metrics:
+| Metric             | Value   |
+|--------------------|---------|
+| Training Accuracy  | 0.99  |
+| Training Precision | 0.99  |
+| Training Recall    | 1.0     |
+| Training F1 Score  | 0.99   |
+
 
 ## Future Scope:
 ### Finance:-
